@@ -1,0 +1,37 @@
+Josue's Cipher: 
+
+logic: I just assigned each letter a random letter. 
+When a message is encrypted, it will be a string of numbers with no spaces and so it will be hard to know what the actual message is or if there are multiple words. 
+The point is to create code that stores the actual number pairs in an array so interally we can know what they should be. 
+
+a => 10
+b => 5
+c => 6
+d => 7
+e => 8
+f => 9
+g => 0
+h => 55
+i => 12
+j => 123
+k => 543
+l => 67
+m => 68
+n => 69
+o => 754
+p => 678
+q => 234
+r => 753
+s => 2345
+t => 222
+u => 22
+v => 666
+w => 777
+x => 789
+y => 765
+z => 900
+
+All special characters represent themselves
+
+"I love cryptography!"
+12

@@ -1,0 +1,18 @@
+overview of breach and motivations 
+tech flaws and how hackers able to breach 
+what did company do to protect since
+
+
+** Microsoft Software Caused Data Breach **
+
+What: 
+    -- Chinese hacking group attacked Microsoft and affected over 30,000 orgs (including govs and gov agencies).
+    -- Targeting "entities in the US for the purpose of exfiltrating info from a number of industry sectors"
+
+Flaws: 
+    -- stolen passwords
+    -- previously undetected vulnerabilities on servers running MS Exchange software.
+        -- This alloed any user who had physical or virtual access at time of login to gain full administrative rights. 
+
+Resolution:
+    -- MS sent communication to customers to immediately install all software patches for their systems. 
